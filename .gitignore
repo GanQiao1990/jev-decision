@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.key
+*.pem
+jev_snapshot.json
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+.DS_Store

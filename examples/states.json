@@ -1,0 +1,9 @@
+[
+  {"name": "demo-coverage", "failed_gates": ["coverage_pass"]},
+  {"name": "demo-budget", "failed_gates": ["budget_pass"]},
+  {"name": "demo-quality", "failed_gates": ["quality_pass"]},
+  {"name": "demo-convergence", "failed_gates": ["convergence_pass"]},
+  {"name": "demo-safety", "failed_gates": ["safety_pass"]},
+  {"name": "demo-feasibility", "failed_gates": ["feasibility_pass"]},
+  {"name": "demo-vacuous", "failed_gates": ["latency_pass"]}
+]
